@@ -43,7 +43,7 @@ Insight : Bonne parité globale dans l'entreprise.
 
 ### Page 2 — Vue Géographie & Performance
 #### KPI Cards
-IndicateurValeur👥 Nombre Employés600💰 Total Masse Salariale6.98M MAD⭐ Score Moyen Performance7.12 / 10💵 Salaire Moyen11.64K MAD
+IndicateurValeur Nombre Employés600 Total Masse Salariale6.98M MAD Score Moyen Performance7.12 / 10 Salaire Moyen11.64K MAD
 #### Total Masse Salariale par Ville
 Bar chart horizontal comparant la masse salariale par ville.
 
