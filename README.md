@@ -118,7 +118,7 @@ Dataset : 600 employés — contexte marocain
 
 Cloner le repository :
 
-bash   git clone https://github.com/Faridoumnay/Analyse de RH-DATA.git
+bash   git clone https://github.com/Faridoumnay/ Analyse de RH-DATA.git
 
 Ouvrir Analyse_de_RH-DATA.pbix avec Power BI Desktop
 Re-lier le dataset si nécessaire : Transform Data → Data Source Settings
